@@ -1,5 +1,5 @@
 ## Solutions
-
+Here are the solutions for course-1, 2 and 4 from Deeplearning.ai Specialization on Coursera.
 ### 1. Neural Network and Deep Learning
 * Week 1
 	* [Quiz 1](https://github.com/HeroKillerEver/coursera-deep-learning/blob/master/Neural%20Networks%20and%20Deep%20Learning/week1%20quiz.md)
